@@ -1,4 +1,5 @@
----
+local string1 = "Run. IT is chasing you. You cannot hide. Run."
+print(string1)  --> Hello world!---
 title: Strings
 description: A sequence of characters, such as letters, numbers, and symbols.
 ---
